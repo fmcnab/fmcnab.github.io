@@ -16,10 +16,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Fergus-Mcnab'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=jkIHW8QAAAAJ&hl=en&authuser=1'}
+- {icon: 'github', link: 'https://github.com/fmcnab'}
+- {icon: 'twitter', link: 'https://twitter.com/fergus_mc'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
