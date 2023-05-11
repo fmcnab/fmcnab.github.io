@@ -6,3 +6,4 @@ featured:
 index:
 - {names: 'M<sup>c</sup>Nab, F. and Ball, P. W.', year: '2023', title: 'meltPT: A Python package for basaltic whole-rock thermobarometric analysis with application to Hawai&#x02BB;i', journal: 'Volcanica', vol: '6', num: '1', pages: '63&ndash;76', doi: '10.30909/vol.06.01.6376', url: 'https://doi.org/10.30909/vol.06.01.6376'}
 - {names: 'M<sup>c</sup>Nab, F. and White, N. J.', year: '2022', title: 'Geodynamic significance of a buried transient Carboniferous landscape', journal: 'GSA Bulletin', vol: '134', num: '5&ndash;6', pages: '1,180&ndash;1,201', doi: '10.1130/B36002.1', url: 'https://doi.org/10.1130/B36002.1'}
+- {names: 'M<sup>c</sup>Nab, F., Sloan, R. A. and Walker, R. T.', year: '2019', title: 'Simultaneous orthogonal shortening in the Afghan-Tajik Depression', journal: 'Geology', vol: '47', num: '9', pages: '862&ndash;866', doi: '10.1130/G46090.1', url: 'https://doi.org/10.1130/G46090.1'}
