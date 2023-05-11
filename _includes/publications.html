@@ -6,6 +6,7 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
+      <h4 class="fw-bold pb-3 mb-5">Peer-reviewed articles</h4>
       {% for item in site.data.publications.index %}
         <p>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</p>
       {% endfor %}
