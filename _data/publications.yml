@@ -10,5 +10,9 @@ peer_reviewed:
 - {names: 'M<sup>c</sup>Nab, F., Ball, P. W., Hoggard, M. J. and White, N. J.', year: '2019', title: 'Reply to &ldquo;Geochemical characteristics of Anatolian basalts: Comment on &lsquo;Neogene uplift and magmatism of Anatolia: Insights from drainage analysis and basaltic geochemistry&rsquo; by M<sup>c</sup>Nab et al.&rdquo;', journal: 'Geochemsitry, Geophysics, Geosystems', vol: '20', num: '1', pages: '542&ndash;544', doi: '10.1029/2018GC008034', url: 'https://doi.org/10.1029/2018GC008034'}
 - {names: 'M<sup>c</sup>Nab, F., Ball, P. W., Hoggard, M. J. and White, N. J.', year: '2018', title: 'Neogene uplift and magmatism of Anatolia: Insights from drainage analysis and basaltic geochemistry', journal: 'Geochemsitry, Geophysics, Geosystems', vol: '19', num: '1', pages: '175&ndash;213', doi: '10.1002/2017GC007251', url: 'https://doi.org/10.1002/2017GC007251'}
 
-monograph:
+monographs:
 - {names: 'M<sup>c</sup>Nab, F.', year: '2020', title: 'Expressions of Mantle Dynamics in Landscapes and Sedimentary Basins', description: 'Ph. D. Dissertation, University of Cambridge', doi: '10.17863/CAM.52101', url: 'https://doi.org/10.17863/CAM.52101'}
+
+monographs:
+- {names: 'M<sup>c</sup>Nab, F. and Ball, P.W.', year: '2023', title: 'meltPT (v. 1.2.0)', publisher: 'Zenodo', doi: '10.5281/zenodo.7664524', url: 'https://doi.org/10.5281/zenodo.7664524'}
+- {names: 'Wickert, A.D., M<sup>c</sup>Nab, F. and Barefoot, E.A.', year: '2023', title: 'GRLP (v. 1.2.0)', publisher: 'Zenodo', doi: '10.5281/zenodo.6968526', url: 'https://doi.org/10.5281/zenodo.6968526'}

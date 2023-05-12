@@ -10,9 +10,13 @@
       {% for item in site.data.publications.peer_reviewed %}
         <p>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</p>
       {% endfor %}
-      <h4 class="fw-bold pb-3 mb-3">Monographs</h4>
+      <h4 class="fw-bold pb-3 mb-3 mt-3">Monographs</h4>
       {% for item in site.data.publications.monographs %}
         <p>{{ item.names }}, {{ item.year }}, {{ item.title }}, {{ item.description }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</p>
+      {% endfor %}
+      <h4 class="fw-bold pb-3 mb-3 mt-3">Software</h4>
+      {% for item in site.data.publications.monographs %}
+        <p>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.publisher }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</p>
       {% endfor %}
     {% endif %}
   </div>
