@@ -15,10 +15,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Fergus-Mcnab'}
-- {icon: 'google', link: 'https://scholar.google.com/citations?user=jkIHW8QAAAAJ&hl=en&authuser=1'}
-- {icon: 'github', link: 'https://github.com/fmcnab'}
 - {icon: 'twitter', link: 'https://twitter.com/fergus_mc'}
+- {icon: 'github', link: 'https://github.com/fmcnab'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=jkIHW8QAAAAJ&hl=en&authuser=1'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Fergus-Mcnab'}
 
 contacts:
-- {name: 'Dr. Fergus M<sup>c</sup>', title: 'Researcher', department: 'Section 4.6: Geomorphology', institution: 'Helmholtz Centre Potsdam | German Centre for Geoscience Research (GFZ)', institution_address: 'Telegrafenberg, 14473 Potsdam, Germany', phone: ' +49 331 6264-28610', email: 'mcnab@gfz-potsdam.de', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Fergus M<sup>c</sup>Nab', title: 'Researcher', department: 'Section 4.6: Geomorphology', institution: 'Helmholtz Centre Potsdam<br>German Centre for Geoscience Research (GFZ)', institution_address: 'Telegrafenberg, 14473 Potsdam, Germany', phone: ' +49 331 6264-28610', email: 'mcnab@gfz-potsdam.de', image: 'assets/img/contact.jpg'}
