@@ -8,7 +8,7 @@ layout: default
 <div class="row g-5 mb-5">
   {% for item in site.data.projects.row1 %}
     <div class="col-md-6">
-      <img src="{{ item.img }}" alt="Image" width="100%">
+      <img src="{{ site.github.url }}{{ item.img }}" alt="Image" width="100%">
       <p>{{ item.title }}</p>
     </div>
   {% endfor %}
