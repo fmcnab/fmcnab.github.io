@@ -3,9 +3,9 @@ rows:
 - - title: 'Responses of alluvial rivers to environmental change'
     img: 'alluvial_riv.png'
     info:
-      - 'info1',
-      - 'info2'
-      - 'info3'
+    - 'info1',
+    - 'info2'
+    - 'info3'
       
   - title: 'Depths and temperatures of mantle melting',
     img: 'meltpt.png'
@@ -17,13 +17,13 @@ rows:
 - - title: 'Responses of alluvial rivers to environmental change'
     img: 'alluvial_riv.png'
     info:
-      - 'info1',
-      - 'info2'
-      - 'info3'
+    - 'info1',
+    - 'info2'
+    - 'info3'
       
   - title: 'Depths and temperatures of mantle melting',
     img: 'meltpt.png'
     info:
-      - 'info1'
-      - 'info2'
-      - 'info3'
+    - 'info1'
+    - 'info2'
+    - 'info3'
