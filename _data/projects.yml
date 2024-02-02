@@ -37,9 +37,11 @@ rows:
     from that of plate tectonic processes. One way to disesntangle these effects is
     to analyse the shape of the landscape, which reflects the combination of uplift,
     subsidence, and erosion. In particular, if erosion can be parameterised, we
-    can infer uplift-rate histories across the continents. Such information is
-    invaluable in distinguishing between competing hypotheses concerning the
-    mechanisms behind topographic growth. See
+    can infer uplift-rate histories across the continents. Away from plate boundaries,
+    these results provide direct constraints on mantle-driven uplift. Close to plate
+    boundaries, this information can be combined with independent evidence such as
+    the timing and composition of volcanism to distinguish between different uplift
+    mechanisms. See
     <a href='https://doi.org/10.1002/2017GC007251'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab et al. (2018)</a>
     for analysis and discussion of the development of Anatolian Plateaux."
   
@@ -51,7 +53,7 @@ rows:
     which, in the absense of geodynamic effects, slowly subside and accumulate
     sediment. If such basins are subjected to a phase of mantle driven uplift,
     they can become exposed, trigerring a phase of fluvial incision. On the
-    resumption of steady subsidence, fluvial valleys can be infilled and the
+    resumption of steady subsidence, fluvial valleys are infilled and the
     transient landscape preserved, along with information about the amplitude
     and rate of uplift. Ancient landscapes can therefore provide rare insights
     into patterns of mantle convection in deep time. See
