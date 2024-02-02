@@ -9,4 +9,4 @@ I am interested in how surface, geodynamic and climatic processes combine and in
 
 #### **Outside work**
 
-I play hockey for a local club side, spend time in the outdoors (when I can), take photographs, and drink coffee.
+I play field hockey for a local club side, spend time in the outdoors (when I can), take photographs, and drink coffee.

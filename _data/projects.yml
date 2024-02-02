@@ -1,8 +1,8 @@
 rows:
   
-- - title: 'Responses of alluvial rivers to environmental change'
-    img: 'alluvial_riv.png'
-    info: 'Alluvial rivers are the primary way in which sediment is transported
+- - title: "Responses of alluvial rivers to environmental change"
+    img: "alluvial_riv.png"
+    info: "Alluvial rivers are the primary way in which sediment is transported
     from eroding source areas to deposition sinks. They aggrade, incise and 
     adjust their rates of sediment transport in response to changing environmental
     conditions. These processes can leave behind terraces along alluvial rivers
@@ -10,16 +10,25 @@ rows:
     models and collecting field observations to build a coherent and quantitative
     understanding of this behaviour. Ultimately we hope to facilitate intepretation
     of these archives in terms of past environmental change. See:
-    <a href="https://doi.org/10.1029/2023GL103075">M<sup>c</sup>Nab et al. (2023)</a>.'
+    <a href="https://doi.org/10.1029/2023GL103075">M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab et al. (2023)</a>."
       
-  - title: 'Depths and temperatures of mantle melting'
-    img: 'meltpt.png'
-    info: 'info'
+  - title: "Depths and temperatures of mantle melting"
+    img: "meltpt.png"
+    info: "The eruption of magma at volcanic centres is one of the clearest surface
+    expressions of mantle convection in Earth's dynamic interior. However, many
+    questions remain regarding how and why mantle melting occurs where and when
+    it does. Useful information can be obtained by calculating pressures and
+    temperatures of melting from the geochemistry of volcanic rocks. Although
+    many variations on this approach have been proposed, there are few frameworks
+    in which to apply and compare them in a consistent way. We developed a Python
+    package, called meltPT, for the application of major-element thermobarometeres.
+    See: McNab and Ball (2023) for an overview of the software and a case study
+    on Hawai'i; McNab et al. (2018) for an earlier application to Anatolia."
       
-- - title: 'Ancient transient landscapes'
-    img: 'gcanyon.png'
-    info: 'info'
+- - title: "Ancient transient landscapes"
+    img: "gcanyon.jpg"
+    info: "info"
       
   - title: "Mantle convection and Earth's surface"
-    img: 'meltpt.png'
-    info: 'info'
+    img: "meltpt.png"
+    info: "info"
