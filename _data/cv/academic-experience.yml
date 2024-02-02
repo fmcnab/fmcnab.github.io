@@ -1,12 +1,15 @@
 - title: 'Visiting Researcher'
   time: 'October&ndash;November 2023'
-  description: 'Institut des Sciences de la Terre (ISTerre), Universit&#233; Grenoble Alpes.'
-               'Funded by Procope-Mobilit&#233; grant from the French Embassy in Germany.'
+  description:
+    - 'Institut des Sciences de la Terre (ISTerre), Universit&#233; Grenoble Alpes.'
+    - 'Funded by Procope-Mobilit&#233; grant from the French Embassy in Germany.'
 
 - title: 'Researcher'
   time: 'Since June 2020'
-  description: 'German Centre for Geoscience Research'
+  description:
+    - 'German Centre for Geoscience Research'
 
 - title: 'Researcher'
   time: 'November 2019&ndash;June 2020'
-  description: 'University of Cambridge, Department of Earth Sciences'
+  description:
+    - 'University of Cambridge, Department of Earth Sciences'
