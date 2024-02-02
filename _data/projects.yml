@@ -9,8 +9,9 @@ rows:
     and facies variations in sedimentary successions downstream. We are developing
     models and collecting field observations to build a coherent and quantitative
     understanding of this behaviour. Ultimately we hope to facilitate intepretation
-    of these archives in terms of past environmental change. See:
-    <a href='https://doi.org/10.1029/2023GL103075'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab et al. (2023)</a>."
+    of these archives in terms of past environmental change. See
+    <a href='https://doi.org/10.1029/2023GL103075'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab et al. (2023)</a>.
+    for a description of our modelling results."
       
   - title: "Depths and temperatures of mantle melting"
     img: "meltpt.png"
@@ -18,17 +19,32 @@ rows:
     expressions of mantle convection in Earth's dynamic interior. However, many
     questions remain regarding how and why mantle melting occurs where and when
     it does. Useful information can be obtained by calculating pressures and
-    temperatures of melting from the geochemistry of volcanic rocks. Although
-    many variations on this approach have been proposed, there are few frameworks
-    in which to apply and compare them in a consistent way. We developed a Python
-    package, called meltPT, for the application of major-element thermobarometeres.
-    See: McNab and Ball (2023) for an overview of the software and a case study
-    on Hawai'i; McNab et al. (2018) for an earlier application to Anatolia."
+    temperatures of melting from the geochemistry of volcanic rocks. We developed
+    a Python package, called
+    <a href='https://github.com/fmcnab/meltPT'>meltPT</a>,
+    for the application of major-element
+    thermobarometers and comparison between results and predictions of geothermal
+    models. See
+    <a href='https://doi.org/10.30909/vol.06.01.6376'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab et al. (2023)</a>
+    for an overview of the software and a case study on Hawai&#x02BB;i; and
+    <a href='https://doi.org/10.1002/2017GC007251'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab et al. (2023)</a>
+    for an earlier application to Anatolia."
       
-- - title: "Ancient transient landscapes"
-    img: "gcanyon.jpg"
-    info: "info"
-      
-  - title: "Mantle convection and Earth's surface"
+- - title: "Mantle convection and Earth's surface"
     img: "meltpt.png"
     info: "info"
+  
+  - title: "Ancient transient landscapes"
+    img: "gcanyon.jpg"
+    info: "Assessing the influence of mantle convection on the Earth's surface
+    through geologic time is challenging since its effects are generally subtle
+    and impermanent. An exception may be in shallow water continental basins,
+    which, in the absense of geodynamic effects, slowly subside and accumulate
+    sediment. If such basins are subjected to a phase of mantle driven uplift,
+    they can become emergent, trigerring a phase of fluvial incision. On the
+    resumption of steady subsidence, fluvial valleys can be infilled and the
+    transient landscape preserved, along with information about the amplitude
+    and rate of uplift. Thus, ancient landscapes can provide rare insights into
+    patterns of mantle convection in deep time. See
+      <a href='https://doi.org/10.30909/vol.06.01.6376'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab and White (2022)</a>"
+    for discussion of such a landscape exposed in the Grand Canyon, USA.
