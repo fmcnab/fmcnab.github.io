@@ -3,4 +3,4 @@ layout: home
 title: "Home"
 ---
 
-I currently work as a research scientist at the German Centre for Geoscience research (GFZ) in Potsdam. 
+I am interested in how surface, geodynamic and climatic processes combine and interact to shape Earth's surface landscape and geological record. In turn, I use observations from landscapes and landforms, as well as sedimentary and magmatic rocks, to infer information about past geodynamic and climatic environments. I apply a combination of numerical modelling, field observations and geochemical analyses. I am particularly interested in inverse modelling approaches seeking to find optimal model parameters that fit diverse surface observations. I am comitted to open and reproducible science and aim to develop and release tools that can be used by the wider community. I currently work as a research scientist at the German Centre for Geoscience research (GFZ) in Potsdam. 
