@@ -4,15 +4,20 @@ rows:
     img: 'alluvial_riv.png'
     info: 'Alluvial rivers are the primary way in which sediment is transported
     from eroding source areas to deposition sinks. They aggrade, incise and 
-    adjust their sediment transport rates in response to changing environmental
-    conditions.'
+    adjust their rates of sediment transport in response to changing environmental
+    conditions. These processes can leave behind terraces along alluvial rivers
+    and facies variations in sedimentary successions downstream. We are developing
+    models and collecting field observations to build a coherent and quantitative
+    understanding of this behaviour. Ultimately we hope to facilitate intepretation
+    of these archives in terms of past environmental change. See:
+    <a href="https://doi.org/10.1029/2023GL103075">M<sup>c</sup>Nab et al. (2023)</a>.'
       
   - title: 'Depths and temperatures of mantle melting'
     img: 'meltpt.png'
     info: 'info'
       
 - - title: 'Ancient transient landscapes'
-    img: 'gcanyon.jpg'
+    img: 'gcanyon.png'
     info: 'info'
       
   - title: "Mantle convection and Earth's surface"
