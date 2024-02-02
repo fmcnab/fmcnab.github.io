@@ -26,7 +26,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.academic-experience %}
-          <p> <span class="fw-bold">{{ section.title }}</span>{{ section.time }}</p>
+          <p> <span class="fw-bold">{{ section.title }}</span> <em>{{ section.time }}</em></p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
