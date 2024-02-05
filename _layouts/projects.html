@@ -10,7 +10,7 @@ layout: default
   {% for item in row %}
     <div class="col-md-6">
       <img src="{{ site.github.url }}/assets/img/{{ item.img }}" alt="Image" width="100%">
-      <h5 class="fw-bold pb-2 mb-2 pt-2 mt-2"><a href="{{ site.github.url }}{{ item.url }}">{{ item.title }}</a></h5>
+      <h5 class="fw-bold pb-2 mb-2 pt-2 mt-2"><a href="{{ site.github.url }}/{{ item.url }}">{{ item.title }}</a></h5>
       {{ item.info }}
 <!--      <ul>
         {% for info in item.info %}
