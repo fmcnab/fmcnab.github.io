@@ -16,6 +16,7 @@ rows:
       
   - title: "Depths and temperatures of mantle melting"
     img: "iceland.jpg"
+    url: "projects/project.html"
     info: "The eruption of magma at volcanic centres is one of the clearest surface
     expressions of mantle convection in Earth's dynamic interior. However, many
     questions remain regarding how and why mantle melting occurs where and when
@@ -33,6 +34,7 @@ rows:
       
 - - title: "Mantle convection and Earth's surface landscape"
     img: "great_escarpment.jpg"
+    url: "projects/project.html"
     info: "Convection deep in the Earth's mantle causes uplift and subsidence of
     the surface, but its influence is often subtle and difficult to discern
     from that of plate tectonic processes. One way to disesntangle these effects is
@@ -48,6 +50,7 @@ rows:
   
   - title: "Ancient transient landscapes"
     img: "gcanyon.jpg"
+    url: "projects/project.html"
     info: "Assessing the influence of mantle convection on the Earth's surface
     through geologic time is challenging since its effects are generally subtle
     and impermanent. An exception may be in shallow water continental basins,
