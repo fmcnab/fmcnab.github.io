@@ -1,9 +1,9 @@
 rows:
   
 - - title: "Responses of alluvial rivers to environmental change"
-    img: "alluvial_riv.png"
+    img: "santa_cruz.jpg"
     info: "Alluvial rivers are the primary way in which sediment is transported
-    from eroding source areas to deposition sinks. They aggrade, incise and 
+    from eroding source areas to depositional sinks. They aggrade, incise and 
     adjust their rates of sediment transport in response to changing environmental
     conditions. These processes can leave behind terraces along alluvial rivers
     and facies variations in sedimentary successions downstream. We are developing
@@ -14,7 +14,7 @@ rows:
     for a description of our modelling results."
       
   - title: "Depths and temperatures of mantle melting"
-    img: "meltpt.png"
+    img: "iceland.jpg"
     info: "The eruption of magma at volcanic centres is one of the clearest surface
     expressions of mantle convection in Earth's dynamic interior. However, many
     questions remain regarding how and why mantle melting occurs where and when
@@ -26,12 +26,12 @@ rows:
     thermobarometers and for comparison between their results and predictions of
     geothermal models. See
     <a href='https://doi.org/10.30909/vol.06.01.6376'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab and Ball (2023)</a>
-    for an overview of the software and a case study on Hawai&#x02BB;i; and
+    for an overview of the software and a case study on Hawai&#x02BB;i, and
     <a href='https://doi.org/10.1002/2017GC007251'>M<span style='font-size:75%;vertical-align:super;text-decoration:none'>c</span>Nab et al. (2018)</a>
     for an earlier application to Anatolia."
       
 - - title: "Mantle convection and Earth's surface landscape"
-    img: "meltpt.png"
+    img: "great_escarpment.jpg"
     info: "Convection deep in the Earth's mantle causes uplift and subsidence of
     the surface, but its influence is often subtle and difficult to discern
     from that of plate tectonic processes. One way to disesntangle these effects is
