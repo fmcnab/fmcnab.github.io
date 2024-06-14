@@ -33,7 +33,7 @@
       <ol reversed>
       {% for item in site.data.publications.conference_oral %}
         {% if item.doi != null %}
-          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.meeting }}</i>.</li>
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.meeting }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
         {% else %}
           <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.meeting }}</i>.</li>
         {% endif %}
@@ -42,13 +42,21 @@
       <h4 class="fw-bold pb-2 mb-2 mt-4">Presenting author&#8212;Poster</h4>
       <ol reversed>
       {% for item in site.data.publications.conference_poster %}
-        <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.meeting }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+        {% if item.doi != null %}
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.meeting }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+        {% else %}
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.meeting }}</i>.</li>
+        {% endif %}
       {% endfor %}
       </ol>
       <h4 class="fw-bold pb-2 mb-2 mt-4">Co-author</h4>
       <ol reversed>
       {% for item in site.data.publications.conference_co-author %}
-        <li>{{ item.names }}, {{ item.year }}, {{ item.title }}. {{ item.type }}. <i>{{ item.meeting }}</i>.</li>
+        {% if item.doi != null %}
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}. {{ item.type }}. <i>{{ item.meeting }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+        {% else %}
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}. {{ item.type }}. <i>{{ item.meeting }}</i>.</li>
+        {% endif %}
       {% endfor %}
       </ol>
     {% endif %}
