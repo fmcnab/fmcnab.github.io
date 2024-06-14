@@ -22,12 +22,18 @@
         <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, {{ item.description }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
       {% endfor %}
       </ol>
-      <h4 class="fw-bold pb-2 mb-2 mt-4">Software</h4>
+      <h4 class="fw-bold pb-2 mb-2 mt-4">Software&#8212;Ongoing projects</h4>
       <ul>
       {% for item in site.data.publications.software %}
         <li><a href="{{ item.git }}">{{ item.project }}</a>. Latest release: {{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.publisher }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
       {% endfor %}
       </ul>
+      <h4 class="fw-bold pb-2 mb-2 mt-4">Software&#8212;Archives</h4>
+      <ol reversed>
+      {% for item in site.data.publications.software_archives %}
+        <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.publisher }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+      {% endfor %}
+      </ol>
       <h3 class="fw-bold border-bottom pb-3 mb-4 mt-5">Conference abstracts</h3>
       <h4 class="fw-bold pb-2 mb-2 mt-4">Presenting author&#8212;Oral</h4>
       <ol reversed>
