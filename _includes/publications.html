@@ -10,9 +10,9 @@
       <ol reversed>
       {% for item in site.data.publications.peer_reviewed %}
         {% if item.vol != null %}
-          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
         {% else %}
-          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i> <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
         {% endif %}
       {% endfor %}
       </ol>
