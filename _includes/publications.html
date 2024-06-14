@@ -9,7 +9,11 @@
       <h4 class="fw-bold pb-2 mb-2">Peer-reviewed articles</h4>
       <ol reversed>
       {% for item in site.data.publications.peer_reviewed %}
-        <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+        {% if item.vol != null %}
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+        {% else %}
+          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+        {% endif %}
       {% endfor %}
       </ol>
       <h4 class="fw-bold pb-2 mb-2 mt-4">Monographs</h4>
