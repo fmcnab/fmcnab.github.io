@@ -21,7 +21,7 @@ software:
 - {project: 'GRLP', git: 'https://github.com/MNiMORPH/GRLP/tree/master', names: 'Wickert, A.D., <b>M<sup>c</sup>Nab, F.</b> and Barefoot, E.A.', year: '2023', title: 'GRLP (v. 1.2.0)', publisher: 'Zenodo', doi: '10.5281/zenodo.6968526', url: 'https://doi.org/10.5281/zenodo.6968526'}
 
 software_archives:
-- {names: '<b>M<sup>c</sup>Nab, F.</b> and Gong, L.', year: '2024', title: 'Supplement to: &ldquo;Drainage rearrangement in an intra-continental mountain belt: A case study from the central South Tian Shan, Kyrgyzstan" by Gong et al. (2024)&rdquo;, publisher: 'Zenodo', doi: '10.5281/zenodo.11505508', url: 'https://zenodo.org/doi/10.5281/zenodo.11505508'}
+- {names: '<b>M<sup>c</sup>Nab, F.</b> and Gong, L.', year: '2024', title: 'Supplement to: &ldquo;Drainage rearrangement in an intra-continental mountain belt: A case study from the central South Tian Shan, Kyrgyzstan&rdquo; by Gong et al. (2024)', publisher: 'Zenodo', doi: '10.5281/zenodo.11505508', url: 'https://zenodo.org/doi/10.5281/zenodo.11505508'}
 
 conference_oral:
 - {names: '<b>M<sup>c</sup>Nab, F.</b>, Schildgen, T.F., Turowski, J.M. and Wickert, A.D.', year: '2024', title: 'Influence of network geometry on the sensitivity of alluvial rivers to environmental and tectonic change', meeting: 'EGU General Assembly, Vienna', doi: '10.5194/egusphere-egu24-17712', url: 'https://doi.org/10.5194/egusphere-egu24-17712'}
