@@ -22,7 +22,7 @@ software:
 
 software_archives:
 - {names: '<b>M<sup>c</sup>Nab, F.</b>', year: '2024', title: 'Supplement to: &ldquo;Width evolution of channel belts as a random walk&rdquo; by Turowski et al.', publisher: 'Zenodo', doi: '10.5281/zenodo.12806573', url: 'https://zenodo.org/doi/10.5281/zenodo.12806573'}
-- {names: '<b>M<sup>c</sup>Nab, F.</b> and Gong, L.', year: '2024', title: 'Supplement to: &ldquo;Drainage rearrangement in an intra-continental mountain belt: A case study from the central South Tian Shan, Kyrgyzstan&rdquo; by Gong et al.', publisher: 'Zenodo', doi: '10.5281/zenodo.11505508', url: 'https://zenodo.org/doi/10.5281/zenodo.11505508'}
+- {names: '<b>M<sup>c</sup>Nab, F.</b> and Gong, L.', year: '2024', title: 'Simulating knickpoint migration due to drainage capture and accelerated base-level fall with the 1D detachment-limited stream-power law', publisher: 'Zenodo', doi: '10.5281/zenodo.11505508', url: 'https://zenodo.org/doi/10.5281/zenodo.11505508'}
 
 conference_oral:
 - {names: '<b>M<sup>c</sup>Nab, F.</b>, Schildgen, T.F., Turowski, J.M. and Wickert, A.D.', year: '2024', title: 'Influence of network geometry on the sensitivity of alluvial rivers to environmental and tectonic change', meeting: 'EGU General Assembly, Vienna', doi: '10.5194/egusphere-egu24-17712', url: 'https://doi.org/10.5194/egusphere-egu24-17712'}
