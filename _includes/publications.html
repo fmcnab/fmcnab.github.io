@@ -6,11 +6,15 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      <h4 class="fw-bold pb-2 mb-2">Peer-reviewed articles</h4>
+      <h4 class="fw-bold pb-2 mb-2">Journal articles</h4>
       <ol reversed>
       {% for item in site.data.publications.peer_reviewed %}
         {% if item.vol != null %}
-          <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+          {% if item.num != null %}
+            <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>({{ item.num }}), p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+          {% else %}
+            <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <b>{{ item.vol }}</b>, p. {{ item.pages }}, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
+          {% endif %}
         {% else %}
           <li>{{ item.names }}, {{ item.year }}, {{ item.title }}, <i>{{ item.journal }}</i>, <a href="{{ item.url }}">doi: {{ item.doi }}</a>.</li>
         {% endif %}
