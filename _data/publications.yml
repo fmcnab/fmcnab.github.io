@@ -5,7 +5,7 @@ featured:
 
 peer_reviewed:
 - {names: '<b>M<sup>c</sup>Nab, F.</b>, Schildgen, T.F., Turowski, J.M. and Wickert, A.D.', year: '2025', title: 'Influence of network geometry on long-term morphodynamics of alluvial rivers', journal: 'EGUsphere [preprint]', vol: '50', num: '10', pages: '1&ndash;45', doi: '10.5194/egusphere-2025-2468', url: 'https://doi.org/10.5194/egusphere-2025-2468'}  
-- {names: 'Fernandes, V.M., Ruby, A., <b>M<sup>c</sup>Nab, F.</b>, Wittmann, H., Wickert, A.D. and Schildgen, T.F.', year: '2025', title: 'Mantle-driven, climatically modulated landscape evolution in Southern Patagonia', journal: 'Geology [under review]'}
+- {names: 'Fernandes, V.M., Ruby, A., <b>M<sup>c</sup>Nab, F.</b>, Wittmann, H., Wickert, A.D., Grimm, L. and Schildgen, T.F.', year: '2025', title: 'Mantle-driven, climatically modulated landscape evolution in Southern Patagonia', journal: 'Geology [under review]&#59; Earth ArXiv [preprint]', doi: '10.31223/X5073Z', url: 'https://doi.org/10.31223/X5073Z'}
 - {names: 'Turowski, J.M., <b>M<sup>c</sup>Nab, F.</b>, Bufe, A. and Tofelde, S.', year: '2025', title: 'Width evolution of channel belts as a random walk', journal: 'Earth Surface Dynamics', vol: '13', pages: '97&ndash;117', doi: '10.5194/esurf-13-97-2025', url: 'https://doi.org/10.5194/esurf-13-97-2025'}
 - {names: 'Gong, L., van der Beek, P., Schildgen, T.F., Sobel, E.R., Racano, S., Mariotti, A. and <b>M<sup>c</sup>Nab, F.</b>', year: '2024', title: 'Drainage rearrangement in an intra-continental mountain belt: A case study from the central South Tian Shan, Kyrgyzstan', journal: 'Earth Surface Dynamics', vol: '12', pages: '973&ndash;994', doi: '10.5194/esurf-12-973-2024', url: 'https://doi.org/10.5194/esurf-12-973-2024'}
 - {names: '<b>M<sup>c</sup>Nab, F.</b>, Schildgen, T.F., Turowski, J.M. and Wickert, A.D.', year: '2023', title: 'Diverse Responses of Alluvial Rivers to Periodic Environmental Change', journal: 'Geophysical Research Letters', vol: '50', num: '10', pages: 'e2023GL103075', doi: '10.1029/2023GL103075', url: 'https://doi.org/10.1029/2023GL103075'}  
@@ -23,6 +23,7 @@ software:
 - {project: 'GRLP', git: 'https://github.com/MNiMORPH/GRLP/tree/master', names: 'Wickert, A.D., <b>M<sup>c</sup>Nab, F.</b> and Barefoot, E.A.', year: '2023', title: 'GRLP (v. 1.2.0)', publisher: 'Zenodo', doi: '10.5281/zenodo.6968526', url: 'https://doi.org/10.5281/zenodo.6968526'}
 
 software_archives:
+- {names: '<b>M<sup>c</sup>Nab, F.</b>', year: '2025', title: 'Software and data supplement to &ldquo;Influence of network geometry on long-term morphodynamics of alluvial rivers&rdquo; by McNab et al. (2025, EGUsphere)', publisher: 'Zenodo', doi: '10.5281/zenodo.15524965', url: 'https://doi.org/10.5281/zenodo.15524965'}
 - {names: '<b>M<sup>c</sup>Nab, F.</b>', year: '2024', title: 'Supplement to: &ldquo;Width evolution of channel belts as a random walk&rdquo; by Turowski et al.', publisher: 'Zenodo', doi: '10.5281/zenodo.12806573', url: 'https://zenodo.org/doi/10.5281/zenodo.12806573'}
 - {names: '<b>M<sup>c</sup>Nab, F.</b> and Gong, L.', year: '2024', title: 'Simulating knickpoint migration due to drainage capture and accelerated base-level fall with the 1D detachment-limited stream-power law', publisher: 'Zenodo', doi: '10.5281/zenodo.11505508', url: 'https://zenodo.org/doi/10.5281/zenodo.11505508'}
 
