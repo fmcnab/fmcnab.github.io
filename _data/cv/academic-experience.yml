@@ -1,3 +1,14 @@
+- title: 'Researcher'
+  time: 'Since September 2025'
+  description:
+    - 'Institut f&#252;r Geowissenschaften, Universit&#228;t Potsdam.'
+    - 'DFG-funded &#8216;Eigene Stelle&#8217;.'
+
+- title: 'Researcher'
+  time: 'June 2020&ndash;August 2025'
+  description:
+    - 'GFZ Helmholtz-Zentrum f&#252;r Geoforshung, Potsdam.'
+
 - title: 'Visiting Researcher'
   time: 'October&ndash;November 2023'
   description:
@@ -5,11 +16,6 @@
     - 'Funded by Procope-Mobilit&#233; grant from the French Embassy in Germany.'
 
 - title: 'Researcher'
-  time: 'Since June 2020'
-  description:
-    - 'German Centre for Geoscience Research'
-
-- title: 'Researcher'
   time: 'November 2019&ndash;June 2020'
   description:
-    - 'University of Cambridge, Department of Earth Sciences'
+    - 'University of Cambridge, Department of Earth Sciences.'

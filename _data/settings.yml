@@ -21,4 +21,4 @@ social:
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Fergus-Mcnab'}
 
 contacts:
-- {name: 'Dr. Fergus M<sup>c</sup>Nab', title: 'Researcher', department: 'Section 4.6: Geomorphology', institution: 'Helmholtz Centre Potsdam<br>German Centre for Geoscience Research (GFZ)', institution_address: 'Telegrafenberg, 14473 Potsdam, Germany', phone: ' +49 331 6264-28610', email: 'mcnab@gfz-potsdam.de', image: 'assets/img/gfz.jpg'}
+- {name: 'Dr. Fergus M<sup>c</sup>Nab', title: 'Researcher', department: 'Institut f&#252;r Geowissenschaften', institution: 'Universit&#228;t Potsdam', institution_address: 'Karl-Liebknecht-Stra&#223;e 24-25, 14476 Potsdam-Golm, Germany', phone: '+49 331 977 6358', email: 'fergus.mcnab@uni-potsdam.de', image: 'assets/img/UP.jpg'}
