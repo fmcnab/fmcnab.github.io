@@ -42,6 +42,7 @@ conference_oral:
 - {names: '<b>M<sup>c</sup>Nab, F.</b> and White, N.J.', year: '2016', title: 'Regional Cenozoic uplift of Europe from linear inverse modelling of longitudinal river profiles', meeting: 'Rain, Rivers, Reservoirs; Edinburgh'}
 
 conference_poster:
+- {names: '<b>M<sup>c</sup>Nab, F.</b>, Ruby, A., Schildgen, T.F., Turowski, J.M. and Wickert, A.D.', year: '2026', title: 'Long-term morphodynamic response of gravel-bed river networks to external change', meeting: 'Gravel Bed Rivers, Aviemore'}
 - {names: '<b>M<sup>c</sup>Nab, F.</b>, van der Beek, P., Schildgen, T.F. and Turowski, J.M.', year: '2026', title: 'Inferring uplift histories from landscapes using hypsometric curves', meeting: 'EGU General Assembly, Vienna', doi: '10.5194/egusphere-egu26-11459', url: 'https://doi.org/10.5194/egusphere-egu26-11459'}
 - {names: '<b>M<sup>c</sup>Nab, F.</b>, Schildgen, T.F., Turowski, J.M. and Wickert, A.D.', year: '2023', title: 'Network geometries influence responses of alluvial river systems to external forcing', meeting: 'EGU General Assembly, Vienna', doi: '10.5194/egusphere-egu23-14815', url: 'https://doi.org/10.5194/egusphere-egu23-14815'}
 - {names: '<b>M<sup>c</sup>Nab, F.</b>, Schildgen, T.F., Turowski, J.M. and Wickert, A.D.', year: '2021', title: 'Network effects in alluvial system responses to environmental change', meeting: 'Mid-European Geomorphology Meeting, Munich'}
